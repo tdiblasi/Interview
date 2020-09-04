@@ -16,9 +16,14 @@ The goal of this Interview Application Assignment is to evaluate your technical 
 Thank you and Good Luck!
 
 
-Fred Shafer
-Head of Services
-MAPSYS, Inc
-Office: 614-384-2780 
-Cell:    567-208-8038
-fshafer@mapsysinc.com
+ Fred Shafer
+ 
+ Head of Services
+ 
+ MAPSYS, Inc
+ 
+ Office: 614-384-2780 
+ 
+ Cell:    567-208-8038
+ 
+ fshafer@mapsysinc.com
