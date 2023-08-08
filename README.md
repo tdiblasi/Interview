@@ -1,3 +1,12 @@
+# Start Application
+
+```
+cd interview-app
+dotnet run
+```
+
+Connect to application on ```https://localhost:7026``` or ```http://localhost:5153``` as specified in `interview-app\Properties\launchSettings.json`
+
 # Interview
 Thank you for your interest in joining the MAPSYS team.  As a Software Developer at MAPSYS, your role will be to provide full-stack web development consulting to a wide variety of public and private sector customers, working on internal and public facing applications.   
 
