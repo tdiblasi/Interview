@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PdfIcon from '../../assets/docIcons/Icon_pdf_file.svg'
+import PdfIcon from '../../assets/docIcons/icon-pdf.svg'
 import styled from 'styled-components'
 
 // PDF icon
